@@ -8,6 +8,7 @@ import java.io.Serializable;
 public class User implements Serializable {
 
     private static final long serialVersionUID = 133068166872292620L;
+
     /**
      * 主键ID
      * AUTO(0) 自动增长,    NONE(1) 没有主键,    INPUT(2) 手动输入,
